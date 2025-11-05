@@ -1,2 +1,5 @@
 # digitising-my-neighbourhoods
-its my first project. cheersme for many more
+The idea for this project started when my mother was frequently in and out of the hospital. During that time, many relatives and neighbors came to visit, and I realized how little I actually knew about the people living around me. Although I had lived there for years, I couldn’t even name most of the nearby households.
+To reconnect with my surroundings, I decided to start a small mapping project focused on digitizing the houses in my neighborhood. Using QGIS and OpenStreetMap data as a base, I manually digitized each house and created simple attribute data containing the house identifier (coded for privacy), the family name, and the number of residents.
+To maintain confidentiality, I replaced real names with numerical codes and stored all information in a private local dataset. The project gave me a clearer picture of the social and spatial structure of my community — how families were distributed, how dense certain clusters were, and how the neighborhood had grown over time.
+Through this small project, I learned that even basic spatial data can reveal meaningful insights about community life. It reminded me that GIS is not only about large-scale mapping, but can also serve as a simple, human-centered tool to understand the people and spaces closest to us.
